@@ -1,0 +1,7 @@
+[package]
+name = "ILJJ-Mk-X"
+version = "0.1.0"
+authors = ["proelbtn <proelbtn@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
